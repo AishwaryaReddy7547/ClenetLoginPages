@@ -49,3 +49,5 @@ c)Instructions to be followed to run the application in local PC
    This command will start a development server and should output something like: Ready on http://localhost:3000. You can access  Next.js application , in the **Chrome** address bar, enter http://localhost:3000 
    and press Enter.
 
+   **Deployed Link**:https://clenet-login-pages-deploy.vercel.app/
+
