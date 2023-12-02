@@ -2,7 +2,7 @@
 a)How to Clone a repo to local PC
 
 1. **Get the Repository URL:**
-   On the GitHub repository page, click on the "Code" button. Copy the URL that appears. It will typically be in the format: `https://github.com/username/repository.git`.
+   On the GitHub repository page, click on the "Code" button. Copy the URL that appears. It will typically be in the format: `https://github.com/AishwaryaReddy7547/ClenetLoginPages.git`.
 2. **Open Terminal (Mac/Linux) or Command Prompt/Powershell (Windows):**
    Open the terminal or command prompt on your local machine.
 3. **Navigate to the Directory Where You Want to Clone the Repository:**
@@ -17,7 +17,7 @@ a)How to Clone a repo to local PC
    ```
    For example:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/AishwaryaRedy7457/ClenetLoginPages.git
    ```
 5. **Press Enter:**
    After entering the command, press `Enter`. Git will clone the repository from GitHub to your local machine.
@@ -31,9 +31,8 @@ a)How to Clone a repo to local PC
     ```bash
     npx create-next-app [project-name]
     ```
-    Replace [project-name] with the desired name of your project.
 
-c)Instructions to be followed to run the apllication in local PC
+c)Instructions to be followed to run the application in local PC
 
  1.**Navigate to the Project Directory:**
      After the project has been created, navigate to the project directory using the cd command:
