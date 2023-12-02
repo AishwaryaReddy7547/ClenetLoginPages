@@ -1,0 +1,26 @@
+.outer_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+.centered_grid_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.grid_wrapper {
+  margin-bottom: 10px; 
+}
+.heart_image{
+  position:absolute;
+  top:50px;
+  right:-15px;
+  width:40;
+}
+.inner_elements{
+  position:relative;
+
+}
